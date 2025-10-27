@@ -1,0 +1,44 @@
+    6  sudo apt install openssl -y
+   11  openssl version
+   19  openssl version
+   24  mkdir ~/openssl-lab
+   26  cd openssl-lab/
+   28  openssl genpkey -algorithm RSA -out server.key -pkeyopt rsa_keygen_bits:2048
+   30  openssl rsa -pubout -in server.key -out server.pub
+   32  openssl req -new -key server.key -out server.csr -subj "/CN=localhost"
+   34  openssl x509 -req -in server.csr-signkey server.key -out server.crt -days 365
+   36  openssl x509 -req -in server.csr -signkey server.key -out server.crt -days 365
+   38  openssl genpkey -algorithm RSA -out rootCA.key -pkeyopt rsa_keygen_bits:4096
+   39  openssl req -x509 -new -nodes -key rootCA.key -sha256 -days 365 -out rootCA.pem -subj "/CN=MyRootCA"
+   41  openssl x509 -req -in server.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out server_by_ca.crt -days 365 -sha256
+   43  openssl x509 -in server_by_ca.crt -text -noout
+   44  openssl pkcs12 -export -out server.pfx -inkey server.key -in server_by_ca.crt -certfile rootCA.pem
+   46  openssl ca -config /etc/ssl/openssl.cnf -revoke server_by_ca.crt
+   53  openssl ca -config /etc/ssl/openssl.cnf -revoke server_by_ca.crt
+   54  openssl ca -config myca.cnf -gencrl -out crl.pem
+   56  openssl ca -config myca.cnf -gencrl -out crl.pem
+   57  openssl ca -config myca.cnf -revoke server_by_ca.crt
+   58  openssl ca -config /etc/ssl/openssl.cnf -gencrl -out crl.pem
+   64  openssl ca -config /etc/ssl/openssl.cnf -gencrl -out crl.pem
+   94  cp ~/openssl-lab/server.key ~/mim-bootcamp/scripts/
+   95  cp ~/openssl-lab/server.csr ~/mim-bootcamp/scripts/
+   96  cp ~/openssl-lab/server_by_ca.crt ~/mim-bootcamp/scripts/
+   97  cp ~/openssl-lab/rootCA.pem ~/mim-bootcamp/scripts/
+   98  cp -r ~/openssl-lab/demoCA ~/mim-bootcamp/scripts/
+   99  history | grep openssl > ~/mim-bootcamp/scripts/openssl_commands.log
+  111  cp /vagrant/47b25020-e77f-48c0-952d-3dc7fb574767.png ~/mim-bootcamp/demo/openssl_lab.png
+  112  vagrant@ubuntu-arm-vm:~/mim-bootcamp$ cp /vagrant/47b25020-e77f-48c0-952d-3dc7fb574767.png ~/mim-bootcamp/demo/openssl_lab.png
+  113  cp /vagrant/openssl-pkl-1.png ~/mim-bootcamp/demo/
+  114  cp /vagrant/openssl-pkl-2.png ~/mim-bootcamp/demo/
+  131  cd openssl-lab/
+  148  openssl dgst -sha256 -signserver.key -out file.sig file.txt
+  150  openssl dgst -sha256 -signserver.key -out file.sig file.txt
+  151  openssl dgst -sha256 -sign server.key -out file.sig file.txt
+  153  openssl rsa -pubout -in server.key -out server.pub
+  155  openssl dgst -sha256 -verify server.pub -signature file.sig file.txt 
+  156  openssl enc -aes-256-cbc -salt -in file.txt -out file.enc
+  159  openssl enc -d -aes-256-cbc -in file.enc -out file_decrypted.txt
+  172  openssl ts -query -data file.txt -out file.tsq
+  177  history | grep openssl >> openssl_commands.log
+  179  git add scripts/file_signing_lab scripts/openssl_commands.log
+  231  history | grep openssl >> openssl_commands.log

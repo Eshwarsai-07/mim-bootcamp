@@ -1,0 +1,300 @@
+
+s       4320 Mon Oct 27 13:34:28 UTC 2025 META-INF/MANIFEST.MF
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+        3526 Mon Oct 27 13:34:28 UTC 2025 META-INF/MYALIAS.SF
+        1494 Mon Oct 27 13:34:28 UTC 2025 META-INF/MYALIAS.RSA
+           0 Sun Mar 03 21:16:02 UTC 2024 META-INF/
+           0 Sun Mar 03 21:16:02 UTC 2024 META-INF/maven/
+           0 Sun Mar 03 21:16:02 UTC 2024 META-INF/maven/org.json/
+           0 Sun Mar 03 21:16:02 UTC 2024 META-INF/maven/org.json/json/
+           0 Sun Mar 03 15:16:04 UTC 2024 META-INF/versions/
+           0 Sun Mar 03 15:16:04 UTC 2024 META-INF/versions/9/
+           0 Sun Mar 03 21:16:02 UTC 2024 org/
+           0 Sun Mar 03 21:16:02 UTC 2024 org/json/
+sm        50 Sun Mar 03 21:16:02 UTC 2024 META-INF/maven/org.json/json/pom.properties
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      7696 Sun Mar 03 21:13:28 UTC 2024 META-INF/maven/org.json/json/pom.xml
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       138 Sun Mar 03 15:16:04 UTC 2024 META-INF/versions/9/module-info.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      5526 Sun Mar 03 21:15:58 UTC 2024 org/json/CDL.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      3853 Sun Mar 03 21:15:58 UTC 2024 org/json/Cookie.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      2039 Sun Mar 03 21:15:58 UTC 2024 org/json/CookieList.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      2722 Sun Mar 03 21:15:58 UTC 2024 org/json/HTTP.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1097 Sun Mar 03 21:15:58 UTC 2024 org/json/HTTPTokener.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm     24528 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONArray.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       772 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONException.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      8578 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONML.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1632 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONMLParserConfiguration.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       196 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONObject$1.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       956 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONObject$Null.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm     40217 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONObject.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       976 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONParserConfiguration.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1233 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONPointer$Builder.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      5202 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONPointer.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       611 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONPointerException.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       438 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONPropertyIgnore.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       465 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONPropertyName.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       156 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONString.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       616 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONStringer.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      7695 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONTokener.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      5950 Sun Mar 03 21:15:58 UTC 2024 org/json/JSONWriter.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1651 Sun Mar 03 21:15:58 UTC 2024 org/json/ParserConfiguration.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1937 Sun Mar 03 21:15:58 UTC 2024 org/json/Property.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      1375 Sun Mar 03 21:15:58 UTC 2024 org/json/XML$1$1.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       807 Sun Mar 03 21:15:58 UTC 2024 org/json/XML$1.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm     15376 Sun Mar 03 21:15:58 UTC 2024 org/json/XML.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      5246 Sun Mar 03 21:15:58 UTC 2024 org/json/XMLParserConfiguration.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm      5655 Sun Mar 03 21:15:58 UTC 2024 org/json/XMLTokener.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+sm       284 Sun Mar 03 21:15:58 UTC 2024 org/json/XMLXsiTypeConverter.class
+
+      >>> Signer
+      X.509, CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls
+      Signature algorithm: SHA256withRSA, 2048-bit key
+      [certificate is valid from 10/27/25, 1:33 PM to 10/27/26, 1:33 PM]
+      [Invalid certificate chain: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+
+  s = signature was verified 
+  m = entry is listed in manifest
+  k = at least one certificate was found in keystore
+
+- Signed by "CN=Se7en, OU=Fugazi, O=shs, L=torento, ST=stat-1, C=ls"
+    Digest algorithm: SHA-256
+    Signature algorithm: SHA256withRSA, 2048-bit key
+
+jar verified.
+
+Warning: 
+This jar contains entries whose certificate chain is invalid. Reason: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+This jar contains entries whose signer certificate is self-signed.
+This jar contains signatures that do not include a timestamp. Without a timestamp, users may not be able to validate this jar after any of the signer certificates expire (as early as 2026-10-27).
+
+The signer certificate will expire on 2026-10-27.

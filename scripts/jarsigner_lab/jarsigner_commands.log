@@ -1,0 +1,9 @@
+  202  mkdir jarsigner_lab
+  204  cd jarsigner_lab
+  213  jarsigner -keystore mykeystore.jks -storepass Sai792005@ myapp.jar myalias
+  215  jarsigner -verify -verbose -certs myapp.jar | tee verification_output.txt
+  221  jarsigner -keystore mykeystore.jks -storepass changeit   -tsa http://timestamp.digicert.com   myapp.jar myalias
+  222  jarsigner -keystore mykeystore.jks -storepass Sai792005@   -tsa http://timestamp.digicert.com   myapp.jar myalias
+  223  for file in *.jar; do   jarsigner -keystore mykeystore.jks -storepass changeit "$file" myalias; done
+  224  for file in *.jar; do   jarsigner -keystore mykeystore.jks -storepass Sai792005@ "$file" myalias; done
+  225  history | grep jarsigner > jarsigner_commands.log
