@@ -24,9 +24,21 @@
 
 ---
 
+## Section 5: jarsigner – Java Artifact Signing
+- ✅ Downloaded sample JAR (`json-20240303.jar`)  
+- ✅ Created Java keystore and RSA keypair using `keytool`  
+- ✅ Signed JAR file with `jarsigner`  
+- ✅ Verified signature and certificate details with `jarsigner -verify -verbose -certs`  
+- ✅ Exported signer certificate to `mycert.cer`  
+- ✅ (Optional) Applied timestamp authority (`-tsa http://timestamp.digicert.com`)  
+- ✅ Organized outputs inside `scripts/jarsigner_lab/`  
+- ✅ Created command log (`jarsigner_commands.log`) and verification report  
+- ✅ Committed and pushed updates to GitHub  
+
+---
+
 ## Next Steps
-- 🔄 Section 5: jarsigner – Java Artifact Signing  
-- 🔑 Section 6: SSH Key & Local CA Simulation  
+- 🔄 Section 6: SSH Key & Local CA Simulation  
 - 🌐 Section 7: HTTPS Lab – Local Testing  
 - 🧠 Complete quiz and add answers to `quiz.md`
 
